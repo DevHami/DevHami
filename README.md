@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @DevHami
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on whatever i can
 - 📫 You can to reach me on ham.kacem15@gmail.com
 
 <!---
